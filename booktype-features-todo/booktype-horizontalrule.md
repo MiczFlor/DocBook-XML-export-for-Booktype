@@ -1,0 +1,4 @@
+### Horizontal lines
+```
+<hr>
+```

@@ -1,4 +1,7 @@
 ## Links
+
+(see: http://docbook.org/tdg51/en/html/link.html)
+
 External links:
 ```
 FROM (Booktype):

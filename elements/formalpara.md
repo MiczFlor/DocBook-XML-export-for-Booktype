@@ -1,6 +1,12 @@
 ## Formal paragraphs
 
-The formal paragraphs are used in Booktype for boxes inside the chapter. 
+(see: http://docbook.org/tdg51/en/html/formalpara.html)
+
+### Info box using `formalpara` 
+
+Because `formalpara` might be used in other cases as well,
+it is important to give this special use case the role `infobox`
+as an attribute.
  
 ```
 FROM (Booktype):
@@ -24,7 +30,7 @@ information is added here.</i></p>
 </div>
 
 TO (DocBook 5.1):
-<formalpara>
+<formalpara role="infobox">
   <title>The title, also used in the table of boxes</title>
   <para>This is a test.  This is only a test.  Had this been a real
     example, it would have made more sense.  Or less.

@@ -1,4 +1,7 @@
 ## Paragraph
+
+(see: http://docbook.org/tdg51/en/html/para.html)
+
 ```
 <p class="body-first"> => <para role="body-first">
 Rule: no indent of first line, no margin / padding at the bottom
