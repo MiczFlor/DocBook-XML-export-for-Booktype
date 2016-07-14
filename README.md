@@ -21,35 +21,47 @@ It is important to note that the DocBook XML structure is not limiting the book 
 
 You can find the lists of all elements of our sub-set with detailed descriptions in the elements folder. 
 
-Here an example of the content skeleton:
+Here an example of a book content skeleton:
 ```
-    <part label="###Frontmatter"> 
-      <title>Part title for table of contents</title> 
-      <chapter label="ChapterTitleFromToC" id="chapterURL">
-        <info>
-          <title>Foreword</title>
-        </info>
-        <section role="h1">
-          <title>Heading</title>
-          <para>...</para>
-          ...
-        </section>
-        <section role="h2">
-          <title>Subheading</title>
-          <para>...</para>
-          ...
-        </section>
-        <section role="h3">
-          <title>Subsubheading</title>
-          <para>...</para>
-          ...
-        </section>
+<book xmlns='http://docbook.org/ns/docbook'>
+  <title>Booktype goes DocBook</title>
+  <info>
+    <legalnotice><para>GNU Open Documentation</para></legalnotice>
+    <author xml:base="https://booktype.pro"><givenname>The Booktype Team</givenname></author>
+    <publisher>
+      <publishername>Sourcefabric Publishing</publishername>
+      <city>Prague</city>
+      <uri>https://sourcefabric.org</uri>
+    </publisher>
+  <dedication><para>This book is dedicated to you.</para></dedication>
+  <part label="###Frontmatter"> 
+    <title>Part title for table of contents</title> 
+    <chapter label="ChapterTitleFromToC" id="chapterURL">
+      <info>
+        <title>Foreword</title>
+      </info>
+      <section role="h1">
+        <title>Heading</title>
+        <para>...</para>
         ...
-      </chapter>
-      <chapter label="ChapterTitleFromToC" id="chapterURL">
+      </section>
+      <section role="h2">
+        <title>Subheading</title>
+        <para>...</para>
         ...
-      </chapter>
-    </part>
+      </section>
+      <section role="h3">
+        <title>Subsubheading</title>
+        <para>...</para>
+        ...
+      </section>
+      ...
+    </chapter>
+    <chapter label="ChapterTitleFromToC" id="chapterURL">
+      ...
+    </chapter>
+  </part>
+</book>
 ```
 
 # Elements in the document
