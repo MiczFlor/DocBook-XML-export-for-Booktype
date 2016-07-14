@@ -8,25 +8,25 @@ FROM (Booktype)
 
 TO (DocBook 5.1)
 <figure>
-<title>The title - also for the table of figures</title>
-<mediaobject>
-  <imageobject condition="print">
-    <imagedata fileref="figs/print/db5d_ref01.pdf"/>
-  </imageobject>
-  <textobject><phrase>ALT text here (caption?)</phrase></textobject>
-  <caption>
-    <para>If given, comes beneath the image / figure and beneath or following the title</para>
-  </caption>
-</mediaobject>
+  <title>The title - also for the table of figures</title>
+  <mediaobject>
+    <imageobject condition="print">
+      <imagedata fileref="figs/print/db5d_ref01.pdf"/>
+    </imageobject>
+    <textobject><phrase>ALT text here (caption?)</phrase></textobject>
+    <caption>
+      <para>If given, comes beneath the image / figure and beneath or following the title</para>
+    </caption>
+  </mediaobject>
 </figure>
 
 MVP
 <figure>
-<mediaobject>
-  <imageobject condition="print">
-    <imagedata fileref="figs/print/db5d_ref10.pdf" format="PDF" role="keep-together"/>
-  </imageobject>
-</mediaobject>
+  <mediaobject>
+    <imageobject condition="print">
+      <imagedata fileref="figs/print/db5d_ref10.pdf" format="PDF" role="keep-together"/>
+    </imageobject>
+  </mediaobject>
 </figure>
 ```
 (see: http://docbook.org/tdg51/en/html/informalfigure.html)

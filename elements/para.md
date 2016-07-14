@@ -4,10 +4,10 @@
 
 ```
 <p class="body-first"> => <para role="body-first">
-Rule: no indent of first line, no margin / padding at the bottom
+Rule (depending on theme): no indent of first line, no margin / padding at the bottom
 
 <p class="body"> => <para role="body">
-Rule: indent first line 1em
+Rule (depending on theme): indent first line 1em
 
 <p class="hanging"> => <para role="hanging">
 Rule: indent paragraph 1em, indent first line -1em

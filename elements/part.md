@@ -1,4 +1,7 @@
 ## Part
+
+(see: http://docbook.org/tdg51/en/html/part.html)
+
 ```
 <part label="###Frontmatter"> 
   <title>Part title for table of contents</title> 

@@ -155,6 +155,9 @@ DocBook only provides the `footnote` element, so we use the
 
 ## Other elements to be done
 
+### Paragrpah alignment
+[Booktype paragraph alignment](booktype-features-todo/booktype-alignment.md) 
+
 ### Horizontal lines
 [Booktype horizontal line](booktype-features-todo/booktype-horizontalrule.md) 
 
