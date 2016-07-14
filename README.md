@@ -64,9 +64,13 @@ Here an example of a book content skeleton:
 </book>
 ```
 
-# Elements in the document
+# Features in Booktype and corresponding DocBook elements
 
 ## Book - the wrapper around everything
+
+The `book` element of DocBook contains also the book metadata from Booktype
+
+[Book element](elements/book.md)
 
 ```
 <book xmlns='http://docbook.org/ns/docbook'>
