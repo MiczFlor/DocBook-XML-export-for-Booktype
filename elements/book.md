@@ -1,7 +1,8 @@
 ## Book - the wrapper around everything
 
 ```
-<book xmlns='http://docbook.org/ns/docbook'>
+<?xml version='1.0'? xml:lang="en">
+<book xmlns='http://docbook.org/ns/docbook' dir='ltr'>
   <title>%title%</title>
   <titleabbrev>short-title</titleabbrev>
   <subtitle>%subtitle%</subtitle>
@@ -76,3 +77,11 @@
 </book>
 ```
 (see: http://docbook.org/tdg51/en/html/book.html)
+
+### Setting the language
+
+Setting the default language of the book is done in the tag `<?xml version='1.0'? xml:lang="en-GB">`.
+The language specified must follow the standard: 
+
+(see: https://www.w3.org/International/articles/language-tags/)
+(see: http://www.lingoes.net/en/translator/langcode.htm)
