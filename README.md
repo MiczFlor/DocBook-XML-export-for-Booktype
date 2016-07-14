@@ -97,6 +97,8 @@ The sections are defined inside the Booktype editor as H1, H2, H3 and so forth.
 We are using the `para` element for normal paragraphs. 
 Another paragraph element of DocBook (`formalpara`) is used for a special feature, the info box (see below).
 
+Also, paragraph alignment is described in this document.
+
 [Paragraph element](elements/para.md) 
 
 ## Links

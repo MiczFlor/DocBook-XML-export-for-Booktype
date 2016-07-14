@@ -1,30 +1,30 @@
 ## Sections (inside chapters) 
 
 ```
-<chapter label="ChapterTitleFromToC" id="chapterURL">
-  <info>
-    <title>Foreword</title>
-  </info>
-  <section role="h1">
-    <title>Heading</title>
-    <para>...</para>
-    ...
-  </section>
-  <section role="h2">
-    <title>Subheading</title>
-    <para>...</para>
-    ...
-  </section>
-  <section role="h3">
-    <title>Subsubheading</title>
-    <para>...</para>
-    ...
-  </section>
+From Booktype:
+<h1>Heading</h1>
+...
+<h2>Subheading</h2>
+...
+<h3>Subsubheading</h3>
+...
+
+To DocBook:
+<section role="h1">
+  <title>Heading</title>
+  <para>...</para>
   ...
-</chapter>
-<chapter label="ChapterTitleFromToC" id="chapterURL">
+</section>
+<section role="h2">
+  <title>Subheading</title>
+  <para>...</para>
   ...
-</chapter>
+</section>
+<section role="h3">
+  <title>Subsubheading</title>
+  <para>...</para>
+  ...
+</section>
 ```
 
 To improve widows and orphans, it is important to cluster a headline with the following content. 
