@@ -155,10 +155,20 @@ DocBook only provides the `footnote` element, so we use the
 
 [footnote (used for end of chapter notes) element](elements/footnote.md) 
 
+## Line breaks
+
+Does not exist in DocBook - we'll use a workaround
+
+[Line break processing instruction element](elements/linebreak.md) 
+
+## Horizontal lines
+
+[horizontal line](elements/horizontalline.md) 
+
 ## Other elements to be done
 
-### Horizontal lines
-[Booktype horizontal line](booktype-features-todo/booktype-horizontalrule.md) 
-
 ### Indentation
+
+Indenting paragraphs as specified by the user through the editor UI.
+
 [Booktype indentation](booktype-features-todo/booktype-indentation.md) 

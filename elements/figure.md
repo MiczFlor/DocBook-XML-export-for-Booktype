@@ -1,4 +1,7 @@
 ## Image
+
+(see: http://docbook.org/tdg51/en/html/figure.html)
+
 ```
 FROM (Booktype)
 <div class="group_img">
@@ -29,7 +32,6 @@ MVP
   </mediaobject>
 </figure>
 ```
-(see: http://docbook.org/tdg51/en/html/informalfigure.html)
 
 ### Rules:
 
