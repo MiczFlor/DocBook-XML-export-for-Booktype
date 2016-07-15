@@ -78,6 +78,10 @@
 ```
 (see: http://docbook.org/tdg51/en/html/book.html)
 
+## Person names
+
+If names are used (like in `author`), the full name is usually wrapped inside `givenname`
+
 ### Setting the language
 
 Setting the default language of the book is done in the tag `<?xml version='1.0'? xml:lang="en-GB">`.
