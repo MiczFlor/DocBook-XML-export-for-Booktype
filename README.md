@@ -112,6 +112,7 @@ Both can be represented in DocBook's `link` element.
 
 For images we are using the `figure` element in DocBook. 
 This is wrapped around the `mediaobject` element.
+And the entire thing needs to be packed in a `section`element.
 
 [Figure (images) element](elements/figure.md) 
 

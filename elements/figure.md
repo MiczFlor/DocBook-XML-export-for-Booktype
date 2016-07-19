@@ -2,6 +2,9 @@
 
 (see: http://docbook.org/tdg51/en/html/figure.html)
 
+The `figure` must be wrapped in a `section` element with the role `figure`. 
+This is not required when reading the documentation, but some validation tools didn't accept this without `section`.
+
 ```
 FROM (Booktype)
 <div class="group_img">
@@ -10,27 +13,29 @@ FROM (Booktype)
 </div>
 
 TO (DocBook 5.1)
-<figure>
-  <title>The title - also for the table of figures</title>
-  <mediaobject>
-    <imageobject condition="print">
-      <imagedata fileref="figs/print/db5d_ref01.pdf"/>
-    </imageobject>
-    <textobject><phrase>ALT text here (caption?)</phrase></textobject>
-    <caption>
-      <para>If given, comes beneath the image / figure and beneath or following the title</para>
-    </caption>
-  </mediaobject>
-</figure>
+<section role='figure'>
+  <figure>
+    <title>Fig147ToC Title also for table of figures</title>
+      <mediaobject>
+      <imageobject condition='print'>
+        <imagedata fileref='images/figure01.jpg'/>
+      </imageobject>
+      <textobject><phrase>Image ALT text using title</phrase></textobject>
+      <caption><para>If given, this text comes beneath the image / figure. Don't use for table of contents.</para></caption>
+    </mediaobject>
+  </figure>
+</section>
 
 MVP
-<figure>
-  <mediaobject>
-    <imageobject condition="print">
-      <imagedata fileref="figs/print/db5d_ref10.pdf" format="PDF" role="keep-together"/>
-    </imageobject>
-  </mediaobject>
-</figure>
+<section role='figure'>
+  <figure>
+      <mediaobject>
+      <imageobject condition='print'>
+        <imagedata fileref='images/figure01.jpg'/>
+      </imageobject>
+    </mediaobject>
+  </figure>
+</section>
 ```
 
 ### Rules:
