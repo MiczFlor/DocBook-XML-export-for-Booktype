@@ -140,11 +140,10 @@ All of these are wrapped into the `emphasis` element of DocBook.
 ## Info box
 
 An infobox is a special feature in Booktype.
-It is represented using the `formalpara` element.
-Other uses of `formalpara` might come later,
-which is what the `role` attribute is important.
+It is represented using the `section` element
+with the role `infobox`.
 
-[formalpara element](elements/formalpara.md) 
+[section for infobox element](elements/section_for-box.md) 
 
 ## Endnotes (end of chapter notes)
 
