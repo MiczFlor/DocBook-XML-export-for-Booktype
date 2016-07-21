@@ -1,0 +1,1328 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<book xmlns='http://docbook.org/ns/docbook' xmlns:xl='http://www.w3.org/1999/xlink' version='5.1'>
+  <title>%title%</title>
+  <titleabbrev>short-title</titleabbrev>
+  <subtitle>%subtitle%</subtitle>
+  <info>
+    <legalnotice><para>%rights%</para></legalnotice>
+    <author xml:base='%url_author%'>
+      <personname>%author%</personname></author>
+    <editor>
+      <personname>%author%</personname>
+    </editor>
+    <publisher>
+      <publishername>%publisher%</publishername>
+      <address>
+        <city>%publisher_city%</city>
+        <uri>%url_publisher%</uri>
+      </address>
+    </publisher>
+    <abstract><para>%short_description%</para></abstract>
+    <copyright>
+      <year>%dateCopyrighted%</year>
+      <holder>%rights_holder%</holder>
+    </copyright>
+    <biblioid class='isbn'>%???%</biblioid>
+    <edition>%as edition%</edition>
+  
+    <othercredit role='coverdesigner'>
+      <personname>%cover_design%</personname>
+    </othercredit>
+    <othercredit role='translator'>
+      <personname>%translation_by%</personname>
+    </othercredit>
+    <othercredit role='illustrator'>
+      <personname>%illustration_by%</personname>
+    </othercredit>
+    <othercredit role='proofreader'>
+      <personname>%proofreading%</personname>
+    </othercredit>
+    
+    <othercredit role='photographer'>
+      <personname>%photography%</personname>
+    </othercredit>
+    <othercredit role='cover_photography'>
+      <personname>%cover_photography%</personname>
+    </othercredit>
+    <othercredit role='lectorate'>
+      <personname>%lectorate%</personname>
+    </othercredit>
+    <othercredit role='rights_clearing'>
+      <personname>%rights_clearing%</personname>
+    </othercredit>
+    <othercredit role='research'>
+      <personname>%research%</personname>
+    </othercredit>
+    <othercredit role='text_by'>
+      <personname>%text_by%</personname>
+    </othercredit>
+    <othercredit role='introduction_by'>
+      <personname>%introduction_by%</personname>
+    </othercredit>
+    
+    <bibliomisc role='ebook_isbn'>%ebook_isbn%</bibliomisc>
+    <bibliomisc role='bibliographic_information'>%bibliographic_information%</bibliomisc>
+    <bibliomisc role='typeface'>%typeface%</bibliomisc>
+    <bibliomisc role='printed_on'>%printed_on%</bibliomisc>
+    <bibliomisc role='bookbinder'>%bookbinder%</bibliomisc>
+    <bibliomisc role='printer'>%printer%</bibliomisc>
+    <bibliomisc role='printer_country'>%printer_country%</bibliomisc>
+    <bibliomisc role='paper_certification'>%paper_certification%</bibliomisc>
+  </info>
+  <acknowledgements><para>...</para></acknowledgements>
+  <dedication><para>This book is dedicated to you.</para></dedication>
+    <chapter label='Foreword (no.1)' xml:id='part1chapter1'>
+      <info>
+        <title>Foreword (no.1)</title>
+      </info>
+<!-- para element(s) | content block 1 of 2 -->
+        <para>#c#1# is not simply random text.</para>
+        <para>#c#2# If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. </para>
+        <para>#c#3# It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</para>
+        <para>#c#4# has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </para>
+        <para>#c#5# It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. </para>
+        <para>#c#6# It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. </para>
+        <para>#c#7# It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</para>
+        <para>#c#8# is simply dummy text of the printing and typesetting industry.</para>
+        <para>#c#9# It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. </para>
+        <para>#c#10# has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </para>
+        <para>#c#11# There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. </para>
+        <para>#c#12# Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</para>
+        <para>#c#13# The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</para>
+        <para>#c#14# Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</para>
+        <para>#c#15# has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </para>
+<!-- raw element(s) | content block 2 of 2 -->
+        <para remap='text-align: right'><emphasis role='italics'>
+Signatory's name
+<?linebreak?>Title
+<?linebreak?>Name or organization
+</emphasis></para>
+    </chapter>
+    <chapter label='Preface (no.2)' xml:id='part1chapter2'>
+      <info>
+        <title>Preface (no.2)</title>
+      </info>
+<!-- para element(s) | content block 1 of 4 -->
+        <para>#c#16# has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </para>
+        <para>#c#17# There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. </para>
+        <para>#c#18# Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</para>
+        <para>#c#19# is not simply random text.</para>
+        <para>#c#20# The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</para>
+<!-- list element(s) | content block 2 of 4 -->
+        <itemizedlist>
+          <listitem><para>#c#21# printing</para></listitem>
+          <listitem><para>#c#22# since the 1500s</para></listitem>
+          <listitem><para>#c#23# dummy text</para></listitem>
+          <listitem><para>#c#24# printing</para></listitem>
+          <listitem><para>#c#25# It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. </para></listitem>
+        </itemizedlist>
+<!-- para element(s) | content block 3 of 4 -->
+        <para>#c#26# It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. </para>
+        <para>#c#27# is not simply random text.</para>
+        <para>#c#28# The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</para>
+        <para>#c#29# It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, " dolor sit amet..", comes from a line in section 1.10.32.</para>
+        <para>#c#30# All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</para>
+        <para>#c#31# is simply dummy text of the printing and typesetting industry.</para>
+        <para>#c#32# has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </para>
+        <para>#c#33# There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. </para>
+        <para>#c#34# It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</para>
+        <para>#c#35# It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</para>
+        <para>#c#36# is simply dummy text of the printing and typesetting industry.</para>
+        <para>#c#37# is not simply random text.</para>
+        <para>#c#38# is not simply random text.</para>
+        <para>#c#39# has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </para>
+        <para>#c#40# If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. </para>
+<!-- raw element(s) | content block 4 of 4 -->
+        <para remap='text-align: right'><emphasis role='italics'>
+Signatory's name
+<?linebreak?>Title
+<?linebreak?>Name or organization
+</emphasis></para>
+    </chapter>
+    <chapter label='Acknowledgements (no.3)' xml:id='part1chapter3'>
+      <info>
+        <title>Acknowledgements (no.3)</title>
+      </info>
+<!-- para element(s) | content block 1 of 1 -->
+        <para>#c#41# It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, " dolor sit amet..", comes from a line in section 1.10.32.</para>
+        <para>#c#42# If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. </para>
+        <para>#c#43# It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</para>
+        <para>#c#44# It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. </para>
+        <para>#c#45# It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. </para>
+        <para>#c#46# Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</para>
+        <para>#c#47# Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</para>
+        <para>#c#48# has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </para>
+        <para>#c#49# If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. </para>
+        <para>#c#50# All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</para>
+    </chapter>
+    <chapter label='###ToC (no.4)' xml:id='part1chapter4'>
+      <info>
+        <title>###ToC (no.4)</title>
+      </info>
+    </chapter>
+    <chapter label='Abbreviations (no.5)' xml:id='part1chapter5'>
+      <info>
+        <title>Abbreviations (no.5)</title>
+      </info>
+<!-- table element(s) | content block 1 of 1 -->
+        <table>
+          <caption>#c#51# and more recently with</caption>
+          <tbody>
+            <tr>
+              <td>TD#c#52# of the</td>
+              <td>TD#c#53# It was popularised in the 1960s with the release of Letraset</td>
+            </tr>
+            <tr>
+              <td>TD#c#54# desktop publishing</td>
+              <td>TD#c#55# has been the</td>
+            </tr>
+            <tr>
+              <td>TD#c#56# random text</td>
+              <td>TD#c#57# and</td>
+            </tr>
+            <tr>
+              <td>TD#c#58# desktop publishing</td>
+              <td>TD#c#59# but also the leap into electronic typesetting, remaining essentially unchanged</td>
+            </tr>
+            <tr>
+              <td>TD#c#60# desktop publishing</td>
+              <td>TD#c#61# and more recently with</td>
+            </tr>
+            <tr>
+              <td>TD#c#62# sheets containing Lorem Ipsum passages</td>
+              <td>TD#c#63# publishing packages</td>
+            </tr>
+            <tr>
+              <td>TD#c#64# It has survived not only five centuries</td>
+              <td>TD#c#65# publishing packages</td>
+            </tr>
+            <tr>
+              <td>TD#c#66# and</td>
+              <td>TD#c#67# but also the leap into electronic typesetting, remaining essentially unchanged</td>
+            </tr>
+          </tbody>
+        </table>
+    </chapter>
+    <chapter label='Introduction and Executive Summary (no.6)' xml:id='part1chapter6'>
+      <info>
+        <title>Introduction and Executive Summary (no.6)</title>
+        <author><personname>Name of the Author</personname></author>
+      </info>
+<!-- header element(s) | content block 1 of 16 -->
+      <section role='h1'>
+        <title>#c#68# has been the Heading h1</title>
+<!-- header element(s) | content block 2 of 16 -->
+      </section>
+      <section role='h2'>
+        <title>#c#69# galley of type Heading h2</title>
+<!-- para element(s) | content block 3 of 16 -->
+        <para role='body-first'>#c#70# There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. </para>
+<!-- para element(s) | content block 4 of 16 -->
+        <para>#c#71# It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. </para>
+        <para>#c#72# It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. </para>
+        <para>#c#73# It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, " dolor sit amet..", comes from a line in section 1.10.32.</para>
+        <para>#c#74# It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, " dolor sit amet..", comes from a line in section 1.10.32.</para>
+        <para>#c#75# It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, " dolor sit amet..", comes from a line in section 1.10.32.</para>
+        <para>#c#76# If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. </para>
+        <para>#c#77# is simply dummy text of the printing and typesetting industry.</para>
+        <para>#c#78# is simply dummy text of the printing and typesetting industry.</para>
+        <para>#c#79# All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</para>
+        <para>#c#80# If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. </para>
+<!-- header element(s) | content block 5 of 16 -->
+      </section>
+      <section role='h3'>
+        <title>#c#81# electronic typesetting Heading h3</title>
+<!-- para element(s) | content block 6 of 16 -->
+        <para role='body-first'>#c#82# There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. </para>
+<!-- para element(s) | content block 7 of 16 -->
+        <para>#c#83# All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</para>
+        <para>#c#84# It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, " dolor sit amet..", comes from a line in section 1.10.32.</para>
+        <para>#c#85# It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, " dolor sit amet..", comes from a line in section 1.10.32.</para>
+        <para>#c#86# It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</para>
+        <para>#c#87# It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, " dolor sit amet..", comes from a line in section 1.10.32.</para>
+<!-- header element(s) | content block 8 of 16 -->
+      </section>
+      <section role='h3'>
+        <title>#c#88# specimen book. Heading h3</title>
+<!-- para element(s) | content block 9 of 16 -->
+        <para role='body-first'>#c#89# is simply dummy text of the printing and typesetting industry.</para>
+<!-- para element(s) | content block 10 of 16 -->
+        <para>#c#90# It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</para>
+        <para>#c#91# It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, " dolor sit amet..", comes from a line in section 1.10.32.</para>
+        <para>#c#92# There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. </para>
+        <para>#c#93# If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. </para>
+        <para>#c#94# is not simply random text.</para>
+<!-- header element(s) | content block 11 of 16 -->
+      </section>
+      <section role='h2'>
+        <title>#c#95# typesetting Heading h2</title>
+<!-- para element(s) | content block 12 of 16 -->
+        <para role='body-first'>#c#96# If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. </para>
+<!-- para element(s) | content block 13 of 16 -->
+        <para>#c#97# The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</para>
+        <para>#c#98# All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</para>
+        <para>#c#99# It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. </para>
+        <para>#c#100# Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</para>
+        <para>#c#101# The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</para>
+<!-- header element(s) | content block 14 of 16 -->
+      </section>
+      <section role='h3'>
+        <title>#c#102# since the Heading h3</title>
+<!-- para element(s) | content block 15 of 16 -->
+        <para role='body-first'>#c#103# The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</para>
+<!-- para element(s) | content block 16 of 16 -->
+        <para>#c#104# It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. </para>
+        <para>#c#105# It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</para>
+        <para>#c#106# It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. </para>
+        <para>#c#107# It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</para>
+        <para>#c#108# It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</para>
+      </section>
+    </chapter>
+  <part label='##Mainmatter' xml:id='part1'>
+    <title>##Mainmatter</title>
+    <chapter label='Chapter Header (no.7)' xml:id='part1chapter7'>
+      <info>
+        <title>Chapter Header (no.7)</title>
+        <author><personname>Name of the Author 2</personname></author>
+      </info>
+<!-- header element(s) | content block 1 of 27 -->
+      <section role='h1'>
+        <title>#c#109# typesetting Heading h1</title>
+<!-- para element(s) | content block 2 of 27 -->
+        <para role='body-first'>#c#110# It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</para>
+<!-- para element(s) | content block 3 of 27 -->
+        <para>#c#111# has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </para>
+        <para>#c#112# It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. </para>
+        <para>#c#113# All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</para>
+        <para>#c#114# is simply dummy text of the printing and typesetting industry.</para>
+        <para>#c#115# All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</para>
+<!-- footnote element(s) | content block 4 of 27 -->
+        <para>#c#116# industry's standard<footnote role='endofchapter'><para>#c#117# Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</para></footnote> #c#118# has been the</para>
+<!-- para element(s) | content block 5 of 27 -->
+        <para>#c#119# It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. </para>
+        <para>#c#120# Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</para>
+        <para>#c#121# The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</para>
+        <para>#c#122# All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</para>
+        <para>#c#123# It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</para>
+<!-- header element(s) | content block 6 of 27 -->
+      </section>
+      <section role='h2'>
+        <title>#c#124# since the Heading h2</title>
+<!-- para element(s) | content block 7 of 27 -->
+        <para role='body-first'>#c#125# Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</para>
+<!-- para element(s) | content block 8 of 27 -->
+        <para>#c#126# It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, " dolor sit amet..", comes from a line in section 1.10.32.</para>
+        <para>#c#127# Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</para>
+        <para>#c#128# has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </para>
+        <para>#c#129# It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, " dolor sit amet..", comes from a line in section 1.10.32.</para>
+        <para>#c#130# There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. </para>
+        <para>#c#131# It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, " dolor sit amet..", comes from a line in section 1.10.32.</para>
+        <para>#c#132# It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. </para>
+        <para>#c#133# Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</para>
+        <para>#c#134# It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. </para>
+        <para>#c#135# It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, " dolor sit amet..", comes from a line in section 1.10.32.</para>
+<!-- table element(s) | content block 9 of 27 -->
+        <table>
+          <caption>#c#136# but also the leap into electronic typesetting, remaining essentially unchanged</caption>
+          <thead>
+            <tr>
+              <td>TD#c#137# since the</td>
+              <td>TD#c#138# centuries</td>
+              <td>TD#c#139# specimen book.</td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>TD#c#140# 1</td>
+              <td>TD#c#141# 42,000</td>
+              <td>TD#c#142# 1</td>
+            </tr>
+            <tr>
+              <td>TD#c#143# 0.00234</td>
+              <td>TD#c#144# 42,000</td>
+              <td>TD#c#145# 42,000</td>
+            </tr>
+            <tr>
+              <td>TD#c#146# 0.00234</td>
+              <td>TD#c#147# $19.99</td>
+              <td>TD#c#148# 1.2</td>
+            </tr>
+            <tr>
+              <td>TD#c#149# $8.6bn</td>
+              <td>TD#c#150# 1</td>
+              <td>TD#c#151# 100</td>
+            </tr>
+            <tr>
+              <td>TD#c#152# 1.2</td>
+              <td>TD#c#153# 99</td>
+              <td>TD#c#154# 42,000</td>
+            </tr>
+            <tr>
+              <td>TD#c#155# 1</td>
+              <td>TD#c#156# 236784</td>
+              <td>TD#c#157# $19.99</td>
+            </tr>
+            <tr>
+              <td>TD#c#158# 1.2</td>
+              <td>TD#c#159# 4.67</td>
+              <td>TD#c#160# €240.45</td>
+            </tr>
+            <tr>
+              <td>TD#c#161# €240.45</td>
+              <td>TD#c#162# 42,000</td>
+              <td>TD#c#163# 4.67</td>
+            </tr>
+            <tr>
+              <td>TD#c#164# 4.67</td>
+              <td>TD#c#165# 236784</td>
+              <td>TD#c#166# 42,000</td>
+            </tr>
+            <tr>
+              <td>TD#c#167# 42,000</td>
+              <td>TD#c#168# 99</td>
+              <td>TD#c#169# 99</td>
+            </tr>
+          </tbody>
+        </table>
+<!-- para element(s) | content block 10 of 27 -->
+        <para>#c#170# If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. </para>
+        <para>#c#171# If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. </para>
+<!-- footnote element(s) | content block 11 of 27 -->
+        <para>#c#172# electronic typesetting<footnote role='endofchapter'><para>#c#173# If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. </para></footnote> #c#174# of the</para>
+<!-- para element(s) | content block 12 of 27 -->
+        <para>#c#175# All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</para>
+        <para>#c#176# If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. </para>
+<!-- figure element(s) | content block 13 of 27 -->
+        <section role='figure'>
+          <figure>
+            <title>Fig#c#177# ToC Title also for table of figures</title>
+              <mediaobject>
+              <imageobject condition='print'>
+                <imagedata fileref='images/xyz-figure01.jpg'/>
+              </imageobject>
+              <textobject><phrase>Image ALT text using title</phrase></textobject>
+              <caption><para>If given, this text comes beneath the image / figure. Don't use for table of figures.</para></caption>
+            </mediaobject>
+          </figure>
+        </section>
+<!-- para element(s) | content block 14 of 27 -->
+        <para>#c#178# It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</para>
+        <para>#c#179# It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, " dolor sit amet..", comes from a line in section 1.10.32.</para>
+<!-- footnote element(s) | content block 15 of 27 -->
+        <para>#c#180# printing<footnote role='endofchapter'><para>#c#181# </para></footnote> #c#182# industry's standard</para>
+<!-- para element(s) | content block 16 of 27 -->
+        <para>#c#183# is simply dummy text of the printing and typesetting industry.</para>
+        <para>#c#184# It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. </para>
+<!-- box element(s) | content block 17 of 27 -->
+        <section role='infobox'>
+          <title>Box#c#185# ToC Title also for table of boxes</title>
+          <para>#c#186# Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</para>
+          <para>#c#187# is simply dummy text of the printing and typesetting industry.</para>
+          <para>#c#188# It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</para>
+        </section>
+<!-- para element(s) | content block 18 of 27 -->
+        <para>#c#189# There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. </para>
+        <para>#c#190# It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, " dolor sit amet..", comes from a line in section 1.10.32.</para>
+<!-- footnote element(s) | content block 19 of 27 -->
+        <para>#c#191# since the<footnote role='endofchapter'><para>#c#192# It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</para></footnote> #c#193# specimen book.</para>
+<!-- para element(s) | content block 20 of 27 -->
+        <para>#c#194# There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. </para>
+        <para>#c#195# It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</para>
+<!-- figure element(s) | content block 21 of 27 -->
+        <section role='figure'>
+          <figure>
+            <title>Fig#c#196# ToC Title also for table of figures</title>
+              <mediaobject>
+              <imageobject condition='print'>
+                <imagedata fileref='images/xyz-figure01.jpg'/>
+              </imageobject>
+              <textobject><phrase>Image ALT text using title</phrase></textobject>
+              <caption><para>If given, this text comes beneath the image / figure. Don't use for table of figures.</para></caption>
+            </mediaobject>
+          </figure>
+        </section>
+<!-- header element(s) | content block 22 of 27 -->
+      </section>
+      <section role='h3'>
+        <title>#c#197# printing Heading h3</title>
+<!-- para element(s) | content block 23 of 27 -->
+        <para role='body-first'>#c#198# It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</para>
+<!-- para element(s) | content block 24 of 27 -->
+        <para>#c#199# It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, " dolor sit amet..", comes from a line in section 1.10.32.</para>
+        <para>#c#200# It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. </para>
+        <para>#c#201# It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</para>
+        <para>#c#202# is not simply random text.</para>
+        <para>#c#203# It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</para>
+<!-- header element(s) | content block 25 of 27 -->
+      </section>
+      <section role='h3'>
+        <title>#c#204# References Heading h3</title>
+<!-- para element(s) | content block 26 of 27 -->
+        <para role='body-first'>#c#205# has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </para>
+<!-- para element(s) | content block 27 of 27 -->
+        <para role='hanging'>#c#206# It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. </para>
+        <para role='hanging'>#c#207# It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</para>
+        <para role='hanging'>#c#208# All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</para>
+        <para role='hanging'>#c#209# Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</para>
+        <para role='hanging'>#c#210# has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </para>
+        <para role='hanging'>#c#211# If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. </para>
+        <para role='hanging'>#c#212# The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</para>
+        <para role='hanging'>#c#213# There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. </para>
+        <para role='hanging'>#c#214# is simply dummy text of the printing and typesetting industry.</para>
+        <para role='hanging'>#c#215# It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, " dolor sit amet..", comes from a line in section 1.10.32.</para>
+      </section>
+    </chapter>
+  </part>
+  <part label='##Backmatter' xml:id='part2'>
+    <title>##Backmatter</title>
+    <chapter label='About the authors (no.8)' xml:id='part2chapter8'>
+      <info>
+        <title>About the authors (no.8)</title>
+      </info>
+<!-- para element(s) | content block 1 of 1 -->
+        <para role='noindent'>#c#216# It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. </para>
+        <para role='noindent'>#c#217# has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </para>
+        <para role='noindent'>#c#218# All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</para>
+        <para role='noindent'>#c#219# The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</para>
+        <para role='noindent'>#c#220# has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </para>
+        <para role='noindent'>#c#221# It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</para>
+        <para role='noindent'>#c#222# Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</para>
+        <para role='noindent'>#c#223# There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. </para>
+        <para role='noindent'>#c#224# If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. </para>
+        <para role='noindent'>#c#225# The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</para>
+    </chapter>
+    <chapter label='About us (no.9)' xml:id='part2chapter9'>
+      <info>
+        <title>About us (no.9)</title>
+      </info>
+<!-- header element(s) | content block 1 of 10 -->
+      <section role='h1'>
+        <title>#c#226# Our mission Heading h1</title>
+<!-- para element(s) | content block 2 of 10 -->
+        <para role='body-first'>#c#227# It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, " dolor sit amet..", comes from a line in section 1.10.32.</para>
+<!-- para element(s) | content block 3 of 10 -->
+        <para>#c#228# It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, " dolor sit amet..", comes from a line in section 1.10.32.</para>
+        <para>#c#229# If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. </para>
+<!-- header element(s) | content block 4 of 10 -->
+      </section>
+      <section role='h1'>
+        <title>#c#230# What we do Heading h1</title>
+<!-- para element(s) | content block 5 of 10 -->
+        <para role='body-first'>#c#231# There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. </para>
+<!-- para element(s) | content block 6 of 10 -->
+        <para>#c#232# There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. </para>
+        <para>#c#233# Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</para>
+<!-- header element(s) | content block 7 of 10 -->
+      </section>
+      <section role='h1'>
+        <title>#c#234# Topics we cover Heading h1</title>
+<!-- list element(s) | content block 8 of 10 -->
+        <itemizedlist>
+          <listitem><para>#c#235# of the</para></listitem>
+          <listitem><para>#c#236# dummy text</para></listitem>
+          <listitem><para>#c#237# it to make a type specimen book.</para></listitem>
+          <listitem><para>#c#238# and</para></listitem>
+          <listitem><para>#c#239# It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</para></listitem>
+        </itemizedlist>
+<!-- header element(s) | content block 9 of 10 -->
+      </section>
+      <section role='h1'>
+        <title>#c#240# What we offer Heading h1</title>
+<!-- list element(s) | content block 10 of 10 -->
+        <itemizedlist>
+          <listitem><para>#c#241# of the</para></listitem>
+          <listitem><para>#c#242# has been the</para></listitem>
+          <listitem><para>#c#243# printing</para></listitem>
+          <listitem><para>#c#244# industry's standard</para></listitem>
+          <listitem><para>#c#245# The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</para></listitem>
+        </itemizedlist>
+      </section>
+    </chapter>
+    <chapter label='Recent publications (no.10)' xml:id='part2chapter10'>
+      <info>
+        <title>Recent publications (no.10)</title>
+      </info>
+<!-- raw element(s) | content block 1 of 4 -->
+        <para role='noindent'><emphasis role='bold'>Title of a recent publication in bold</emphasis></para>
+<!-- para element(s) | content block 2 of 4 -->
+        <para role='noindent'>#c#246# is simply dummy text of the printing and typesetting industry.</para>
+<!-- raw element(s) | content block 3 of 4 -->
+        <para role='noindent'><emphasis role='bold'>The second title of a recent publication in bold</emphasis></para>
+<!-- para element(s) | content block 4 of 4 -->
+        <para role='noindent'>#c#247# It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</para>
+    </chapter>
+  </part>
+  <part label='This part contains all Booktype export formats for testing' xml:id='part3'>
+    <title>This part contains all Booktype export formats for testing</title>
+    <chapter label='Aligning and indenting paragraphs (no.11)' xml:id='part3chapter11'>
+      <info>
+        <title>Aligning and indenting paragraphs (no.11)</title>
+        <author><personname>Author of Alignment</personname></author>
+      </info>
+<!-- header element(s) | content block 1 of 18 -->
+      <section role='h1'>
+        <title>#c#248# no indentation, no alignment Heading h1</title>
+<!-- para element(s) | content block 2 of 18 -->
+        <para>#c#249# is not simply random text.</para>
+        <para>#c#250# has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </para>
+<!-- header element(s) | content block 3 of 18 -->
+      </section>
+      <section role='h1'>
+        <title>#c#251# hanging indentation, no alignment Heading h1</title>
+<!-- para element(s) | content block 4 of 18 -->
+        <para role='hanging'>#c#252# If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. </para>
+        <para role='hanging'>#c#253# There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. </para>
+<!-- header element(s) | content block 5 of 18 -->
+      </section>
+      <section role='h1'>
+        <title>#c#254# body-first indentation, no alignment Heading h1</title>
+<!-- para element(s) | content block 6 of 18 -->
+        <para role='body-first'>#c#255# It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</para>
+        <para role='body-first'>#c#256# There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. </para>
+<!-- header element(s) | content block 7 of 18 -->
+      </section>
+      <section role='h1'>
+        <title>#c#257# body indentation, no alignment Heading h1</title>
+<!-- para element(s) | content block 8 of 18 -->
+        <para role='body'>#c#258# is not simply random text.</para>
+        <para role='body'>#c#259# It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. </para>
+<!-- header element(s) | content block 9 of 18 -->
+      </section>
+      <section role='h1'>
+        <title>#c#260# noindent indentation, no alignment Heading h1</title>
+<!-- para element(s) | content block 10 of 18 -->
+        <para role='noindent'>#c#261# All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</para>
+        <para role='noindent'>#c#262# All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</para>
+<!-- header element(s) | content block 11 of 18 -->
+      </section>
+      <section role='h1'>
+        <title>#c#263# no indentation, left alignment Heading h1</title>
+<!-- para element(s) | content block 12 of 18 -->
+        <para remap='text-align:left'>#c#264# has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </para>
+        <para remap='text-align:left'>#c#265# There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. </para>
+<!-- header element(s) | content block 13 of 18 -->
+      </section>
+      <section role='h1'>
+        <title>#c#266# hanging indentation, right alignment Heading h1</title>
+<!-- para element(s) | content block 14 of 18 -->
+        <para role='hanging' remap='text-align:right'>#c#267# It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, " dolor sit amet..", comes from a line in section 1.10.32.</para>
+        <para role='hanging' remap='text-align:right'>#c#268# The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</para>
+<!-- header element(s) | content block 15 of 18 -->
+      </section>
+      <section role='h1'>
+        <title>#c#269# body-first indentation, center alignment Heading h1</title>
+<!-- para element(s) | content block 16 of 18 -->
+        <para role='body-first' remap='text-align:center'>#c#270# It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. </para>
+        <para role='body-first' remap='text-align:center'>#c#271# Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</para>
+<!-- header element(s) | content block 17 of 18 -->
+      </section>
+      <section role='h1'>
+        <title>#c#272# body indentation, justify alignment Heading h1</title>
+<!-- para element(s) | content block 18 of 18 -->
+        <para role='body' remap='text-align:justify'>#c#273# is not simply random text.</para>
+        <para role='body' remap='text-align:justify'>#c#274# has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </para>
+      </section>
+    </chapter>
+    <chapter label='Headlines, subheadlines, subsubheadlines (no.12)' xml:id='part3chapter12'>
+      <info>
+        <title>Headlines, subheadlines, subsubheadlines (no.12)</title>
+      </info>
+<!-- header element(s) | content block 1 of 24 -->
+      <section role='h1'>
+        <title>#c#275# centuries Heading h1</title>
+<!-- para element(s) | content block 2 of 24 -->
+        <para role='body-first'>#c#276# It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, " dolor sit amet..", comes from a line in section 1.10.32.</para>
+<!-- para element(s) | content block 3 of 24 -->
+        <para>#c#277# has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </para>
+        <para>#c#278# There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. </para>
+<!-- header element(s) | content block 4 of 24 -->
+      </section>
+      <section role='h2'>
+        <title>#c#279# electronic typesetting Heading h2</title>
+<!-- para element(s) | content block 5 of 24 -->
+        <para role='body-first'>#c#280# It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. </para>
+<!-- para element(s) | content block 6 of 24 -->
+        <para>#c#281# All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</para>
+        <para>#c#282# is not simply random text.</para>
+<!-- header element(s) | content block 7 of 24 -->
+      </section>
+      <section role='h2'>
+        <title>#c#283# industry's standard Heading h2</title>
+<!-- para element(s) | content block 8 of 24 -->
+        <para role='body-first'>#c#284# is not simply random text.</para>
+<!-- para element(s) | content block 9 of 24 -->
+        <para>#c#285# It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</para>
+        <para>#c#286# It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, " dolor sit amet..", comes from a line in section 1.10.32.</para>
+<!-- header element(s) | content block 10 of 24 -->
+      </section>
+      <section role='h3'>
+        <title>#c#287# specimen book. Heading h3</title>
+<!-- para element(s) | content block 11 of 24 -->
+        <para role='body-first'>#c#288# The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</para>
+<!-- list element(s) | content block 12 of 24 -->
+        <itemizedlist>
+          <listitem><para>#c#289# since the 1500s</para></listitem>
+          <listitem><para>#c#290# industry's standard</para></listitem>
+          <listitem><para>#c#291# typesetting</para></listitem>
+          <listitem><para>#c#292# it to make a type specimen book.</para></listitem>
+          <listitem><para>#c#293# Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</para></listitem>
+        </itemizedlist>
+<!-- header element(s) | content block 13 of 24 -->
+      </section>
+      <section role='h3'>
+        <title>#c#294# centuries Heading h3</title>
+<!-- para element(s) | content block 14 of 24 -->
+        <para role='body-first'>#c#295# It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</para>
+<!-- para element(s) | content block 15 of 24 -->
+        <para>#c#296# It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. </para>
+        <para>#c#297# There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. </para>
+<!-- header element(s) | content block 16 of 24 -->
+      </section>
+      <section role='h2'>
+        <title>#c#298# and Heading h2</title>
+<!-- para element(s) | content block 17 of 24 -->
+        <para role='body-first'>#c#299# is simply dummy text of the printing and typesetting industry.</para>
+<!-- para element(s) | content block 18 of 24 -->
+        <para>#c#300# Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</para>
+        <para>#c#301# All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</para>
+<!-- header element(s) | content block 19 of 24 -->
+      </section>
+      <section role='h1'>
+        <title>#c#302# typesetting Heading h1</title>
+<!-- para element(s) | content block 20 of 24 -->
+        <para role='body-first'>#c#303# If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. </para>
+<!-- para element(s) | content block 21 of 24 -->
+        <para>#c#304# Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</para>
+        <para>#c#305# is not simply random text.</para>
+<!-- header element(s) | content block 22 of 24 -->
+      </section>
+      <section role='h3'>
+        <title>#c#306# galley of type Heading h3</title>
+<!-- para element(s) | content block 23 of 24 -->
+        <para role='body-first'>#c#307# is simply dummy text of the printing and typesetting industry.</para>
+<!-- para element(s) | content block 24 of 24 -->
+        <para>#c#308# The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</para>
+        <para>#c#309# is not simply random text.</para>
+      </section>
+    </chapter>
+    <chapter label='Lists (no.13)' xml:id='part3chapter13'>
+      <info>
+        <title>Lists (no.13)</title>
+        <author><personname>Author of Lists</personname></author>
+      </info>
+<!-- header element(s) | content block 1 of 10 -->
+      <section role='h1'>
+        <title>#c#310# Ordered list Heading h1</title>
+<!-- para element(s) | content block 2 of 10 -->
+        <para role='body-first'>#c#311# All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</para>
+<!-- para element(s) | content block 3 of 10 -->
+        <para>#c#312# All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</para>
+        <para>#c#313# Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</para>
+<!-- list element(s) | content block 4 of 10 -->
+        <orderedlist>
+          <listitem><para>#c#314# has been the</para></listitem>
+          <listitem><para>#c#315# has been the</para></listitem>
+          <listitem><para>#c#316# It has survived not only five centuries</para></listitem>
+          <listitem><para>#c#317# since the 1500s</para></listitem>
+          <listitem><para>#c#318# is simply dummy text of the printing and typesetting industry.</para></listitem>
+        </orderedlist>
+<!-- para element(s) | content block 5 of 10 -->
+        <para>#c#319# The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</para>
+        <para>#c#320# It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. </para>
+<!-- header element(s) | content block 6 of 10 -->
+      </section>
+      <section role='h2'>
+        <title>#c#321# Unordered list Heading h2</title>
+<!-- para element(s) | content block 7 of 10 -->
+        <para role='body-first'>#c#322# There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. </para>
+<!-- para element(s) | content block 8 of 10 -->
+        <para>#c#323# It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</para>
+        <para>#c#324# The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</para>
+<!-- list element(s) | content block 9 of 10 -->
+        <itemizedlist>
+          <listitem><para>#c#325# industry's standard</para></listitem>
+          <listitem><para>#c#326# since the 1500s</para></listitem>
+          <listitem><para>#c#327# industry's standard</para></listitem>
+          <listitem><para>#c#328# printer took a galley of type and scrambled</para></listitem>
+          <listitem><para>#c#329# All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</para></listitem>
+        </itemizedlist>
+<!-- para element(s) | content block 10 of 10 -->
+        <para>#c#330# Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</para>
+        <para>#c#331# has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </para>
+      </section>
+    </chapter>
+    <chapter label='Tables (no.14)' xml:id='part3chapter14'>
+      <info>
+        <title>Tables (no.14)</title>
+      </info>
+<!-- header element(s) | content block 1 of 21 -->
+      <section role='h1'>
+        <title>#c#332# Tables with no thead Heading h1</title>
+<!-- para element(s) | content block 2 of 21 -->
+        <para role='body-first'>#c#333# is simply dummy text of the printing and typesetting industry.</para>
+<!-- para element(s) | content block 3 of 21 -->
+        <para>#c#334# There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. </para>
+        <para>#c#335# is simply dummy text of the printing and typesetting industry.</para>
+<!-- table element(s) | content block 4 of 21 -->
+        <table>
+          <caption>#c#336# printer took a galley of type and scrambled</caption>
+          <tbody>
+            <tr>
+              <td>TD#c#337# but also the leap into electronic typesetting, remaining essentially unchanged</td>
+              <td>TD#c#338# It has survived not only five centuries</td>
+              <td>TD#c#339# random text</td>
+            </tr>
+            <tr>
+              <td>TD#c#340# industry's standard</td>
+              <td>TD#c#341# It has survived not only five centuries</td>
+              <td>TD#c#342# but also the leap into electronic typesetting, remaining essentially unchanged</td>
+            </tr>
+            <tr>
+              <td>TD#c#343# and more recently with</td>
+              <td>TD#c#344# It has survived not only five centuries</td>
+              <td>TD#c#345# but also the leap into electronic typesetting, remaining essentially unchanged</td>
+            </tr>
+            <tr>
+              <td>TD#c#346# and</td>
+              <td>TD#c#347# dummy text</td>
+              <td>TD#c#348# printing</td>
+            </tr>
+            <tr>
+              <td>TD#c#349# of the</td>
+              <td>TD#c#350# It was popularised in the 1960s with the release of Letraset</td>
+              <td>TD#c#351# typesetting</td>
+            </tr>
+            <tr>
+              <td>TD#c#352# and more recently with</td>
+              <td>TD#c#353# random text</td>
+              <td>TD#c#354# random text</td>
+            </tr>
+          </tbody>
+        </table>
+<!-- para element(s) | content block 5 of 21 -->
+        <para>#c#355# is simply dummy text of the printing and typesetting industry.</para>
+        <para>#c#356# The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</para>
+<!-- table element(s) | content block 6 of 21 -->
+        <table>
+          <caption>#c#357# It has survived not only five centuries</caption>
+          <tbody>
+            <tr>
+              <td>TD#c#358# $8.6bn</td>
+              <td>TD#c#359# 0.00234</td>
+              <td>TD#c#360# 1.2</td>
+              <td>TD#c#361# $19.99</td>
+              <td>TD#c#362# $19.99</td>
+            </tr>
+            <tr>
+              <td>TD#c#363# 4.67</td>
+              <td>TD#c#364# $8.6bn</td>
+              <td>TD#c#365# 1.2</td>
+              <td>TD#c#366# 86.43</td>
+              <td>TD#c#367# €240.45</td>
+            </tr>
+            <tr>
+              <td>TD#c#368# 42,000</td>
+              <td>TD#c#369# 42,000</td>
+              <td>TD#c#370# €240.45</td>
+              <td>TD#c#371# 1.2</td>
+              <td>TD#c#372# $19.99</td>
+            </tr>
+          </tbody>
+        </table>
+<!-- para element(s) | content block 7 of 21 -->
+        <para>#c#373# The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</para>
+        <para>#c#374# has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </para>
+<!-- header element(s) | content block 8 of 21 -->
+      </section>
+      <section role='h1'>
+        <title>#c#375# Tables with thead Heading h1</title>
+<!-- para element(s) | content block 9 of 21 -->
+        <para role='body-first'>#c#376# It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</para>
+<!-- para element(s) | content block 10 of 21 -->
+        <para>#c#377# It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. </para>
+        <para>#c#378# It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. </para>
+<!-- table element(s) | content block 11 of 21 -->
+        <table>
+          <caption>#c#379# typesetting</caption>
+          <thead>
+            <tr>
+              <td>TD#c#380# has been the</td>
+              <td>TD#c#381# has been the</td>
+              <td>TD#c#382# centuries</td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>TD#c#383# sheets containing Lorem Ipsum passages</td>
+              <td>TD#c#384# and</td>
+              <td>TD#c#385# desktop publishing</td>
+            </tr>
+            <tr>
+              <td>TD#c#386# It was popularised in the 1960s with the release of Letraset</td>
+              <td>TD#c#387# typesetting</td>
+              <td>TD#c#388# it to make a type specimen book.</td>
+            </tr>
+            <tr>
+              <td>TD#c#389# typesetting</td>
+              <td>TD#c#390# publishing packages</td>
+              <td>TD#c#391# sheets containing Lorem Ipsum passages</td>
+            </tr>
+            <tr>
+              <td>TD#c#392# It has survived not only five centuries</td>
+              <td>TD#c#393# It has survived not only five centuries</td>
+              <td>TD#c#394# industry's standard</td>
+            </tr>
+            <tr>
+              <td>TD#c#395# dummy text</td>
+              <td>TD#c#396# typesetting</td>
+              <td>TD#c#397# sheets containing Lorem Ipsum passages</td>
+            </tr>
+            <tr>
+              <td>TD#c#398# but also the leap into electronic typesetting, remaining essentially unchanged</td>
+              <td>TD#c#399# industry's standard</td>
+              <td>TD#c#400# and more recently with</td>
+            </tr>
+          </tbody>
+        </table>
+<!-- para element(s) | content block 12 of 21 -->
+        <para>#c#401# The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</para>
+        <para>#c#402# Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</para>
+<!-- table element(s) | content block 13 of 21 -->
+        <table>
+          <caption>#c#403# of the</caption>
+          <thead>
+            <tr>
+              <td>TD#c#404# and</td>
+              <td>TD#c#405# of the</td>
+              <td>TD#c#406# printing</td>
+              <td>TD#c#407# industry's standard</td>
+              <td>TD#c#408# has been the</td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>TD#c#409# 86.43</td>
+              <td>TD#c#410# 100</td>
+              <td>TD#c#411# 1</td>
+              <td>TD#c#412# 1</td>
+              <td>TD#c#413# $19.99</td>
+            </tr>
+            <tr>
+              <td>TD#c#414# $19.99</td>
+              <td>TD#c#415# 0.00234</td>
+              <td>TD#c#416# 4.67</td>
+              <td>TD#c#417# 236784</td>
+              <td>TD#c#418# 4.67</td>
+            </tr>
+            <tr>
+              <td>TD#c#419# 1</td>
+              <td>TD#c#420# 86.43</td>
+              <td>TD#c#421# 1.2</td>
+              <td>TD#c#422# $8.6bn</td>
+              <td>TD#c#423# €240.45</td>
+            </tr>
+          </tbody>
+        </table>
+<!-- para element(s) | content block 14 of 21 -->
+        <para>#c#424# If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. </para>
+        <para>#c#425# is simply dummy text of the printing and typesetting industry.</para>
+<!-- header element(s) | content block 15 of 21 -->
+      </section>
+      <section role='h1'>
+        <title>#c#426# Tables without a caption Heading h1</title>
+<!-- para element(s) | content block 16 of 21 -->
+        <para role='body-first'>#c#427# has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </para>
+<!-- para element(s) | content block 17 of 21 -->
+        <para>#c#428# has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </para>
+        <para>#c#429# There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. </para>
+<!-- table element(s) | content block 18 of 21 -->
+        <table>
+          <tbody>
+            <tr>
+              <td>TD#c#430# sheets containing Lorem Ipsum passages</td>
+              <td>TD#c#431# printer took a galley of type and scrambled</td>
+              <td>TD#c#432# it to make a type specimen book.</td>
+            </tr>
+            <tr>
+              <td>TD#c#433# since the 1500s</td>
+              <td>TD#c#434# publishing packages</td>
+              <td>TD#c#435# but also the leap into electronic typesetting, remaining essentially unchanged</td>
+            </tr>
+            <tr>
+              <td>TD#c#436# and more recently with</td>
+              <td>TD#c#437# of the</td>
+              <td>TD#c#438# desktop publishing</td>
+            </tr>
+            <tr>
+              <td>TD#c#439# has been the</td>
+              <td>TD#c#440# It has survived not only five centuries</td>
+              <td>TD#c#441# since the 1500s</td>
+            </tr>
+            <tr>
+              <td>TD#c#442# dummy text</td>
+              <td>TD#c#443# it to make a type specimen book.</td>
+              <td>TD#c#444# since the 1500s</td>
+            </tr>
+            <tr>
+              <td>TD#c#445# It was popularised in the 1960s with the release of Letraset</td>
+              <td>TD#c#446# and</td>
+              <td>TD#c#447# It has survived not only five centuries</td>
+            </tr>
+          </tbody>
+        </table>
+<!-- para element(s) | content block 19 of 21 -->
+        <para>#c#448# has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </para>
+        <para>#c#449# is not simply random text.</para>
+<!-- table element(s) | content block 20 of 21 -->
+        <table>
+          <thead>
+            <tr>
+              <td>TD#c#450# electronic typesetting</td>
+              <td>TD#c#451# of the</td>
+              <td>TD#c#452# dummy text</td>
+              <td>TD#c#453# and</td>
+              <td>TD#c#454# specimen book.</td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>TD#c#455# €240.45</td>
+              <td>TD#c#456# 0.00234</td>
+              <td>TD#c#457# 100</td>
+              <td>TD#c#458# 236784</td>
+              <td>TD#c#459# 236784</td>
+            </tr>
+            <tr>
+              <td>TD#c#460# 86.43</td>
+              <td>TD#c#461# 42,000</td>
+              <td>TD#c#462# 100</td>
+              <td>TD#c#463# 42,000</td>
+              <td>TD#c#464# 4.67</td>
+            </tr>
+            <tr>
+              <td>TD#c#465# $19.99</td>
+              <td>TD#c#466# $19.99</td>
+              <td>TD#c#467# €240.45</td>
+              <td>TD#c#468# $8.6bn</td>
+              <td>TD#c#469# 4.67</td>
+            </tr>
+          </tbody>
+        </table>
+<!-- para element(s) | content block 21 of 21 -->
+        <para>#c#470# Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</para>
+        <para>#c#471# It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</para>
+      </section>
+    </chapter>
+    <chapter label='Font styles and Footnotes (no.15)' xml:id='part3chapter15'>
+      <info>
+        <title>Font styles and Footnotes (no.15)</title>
+        <author><personname>Author of Font Styles</personname></author>
+      </info>
+<!-- header element(s) | content block 1 of 17 -->
+      <section role='h1'>
+        <title>#c#472# Italics, bold and underline Heading h1</title>
+<!-- para element(s) | content block 2 of 17 -->
+        <para role='body-first'>#c#473# There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. </para>
+<!-- emphasis element(s) | content block 3 of 17 -->
+        <para>#c#474# has been the<emphasis role='bold'>#c#475# specimen book.</emphasis> #c#476# printing</para>
+<!-- emphasis element(s) | content block 4 of 17 -->
+        <para>#c#477# of the<emphasis role='italics'>#c#478# electronic typesetting</emphasis> #c#479# galley of type</para>
+<!-- emphasis element(s) | content block 5 of 17 -->
+        <para>#c#480# and<emphasis role='underline'>#c#481# has been the</emphasis> #c#482# galley of type</para>
+<!-- emphasis element(s) | content block 6 of 17 -->
+        <para>#c#483# typesetting<emphasis role='italics'>#c#484# has been the<emphasis role='bold'>#c#485# dummy text</emphasis></emphasis> #c#486# of the</para>
+<!-- emphasis element(s) | content block 7 of 17 -->
+        <para>#c#487# since the<emphasis role='underline'>#c#488# printing<emphasis role='bold'>#c#489# electronic typesetting<emphasis role='italics'>#c#490# centuries</emphasis></emphasis></emphasis> #c#491# industry's standard</para>
+<!-- emphasis element(s) | content block 8 of 17 -->
+        <para>#c#492# has been the<emphasis role='italics'>#c#493# centuries<emphasis role='underline'>#c#494# and<emphasis role='bold'>#c#495# has been the</emphasis></emphasis></emphasis> #c#496# and</para>
+<!-- header element(s) | content block 9 of 17 -->
+      </section>
+      <section role='h1'>
+        <title>#c#497# Footnotes Heading h1</title>
+<!-- para element(s) | content block 10 of 17 -->
+        <para role='body-first'>#c#498# All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</para>
+<!-- para element(s) | content block 11 of 17 -->
+        <para>#c#499# is simply dummy text of the printing and typesetting industry.</para>
+        <para>#c#500# is not simply random text.</para>
+<!-- footnote element(s) | content block 12 of 17 -->
+        <para>#c#501# since the<footnote role='endofchapter'><para>#c#502# is not simply random text.</para></footnote> #c#503# centuries</para>
+<!-- para element(s) | content block 13 of 17 -->
+        <para>#c#504# If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. </para>
+<!-- footnote element(s) | content block 14 of 17 -->
+        <para>#c#505# and<footnote role='endofchapter'><para>#c#506# Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</para></footnote> #c#507# galley of type</para>
+<!-- para element(s) | content block 15 of 17 -->
+        <para>#c#508# is not simply random text.</para>
+<!-- footnote element(s) | content block 16 of 17 -->
+        <para>#c#509# has been the<footnote role='endofchapter'><para>#c#510# The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</para></footnote> #c#511# printing</para>
+<!-- para element(s) | content block 17 of 17 -->
+        <para>#c#512# There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. </para>
+      </section>
+    </chapter>
+    <chapter label='Figures and Info Boxes (no.16)' xml:id='part3chapter16'>
+      <info>
+        <title>Figures and Info Boxes (no.16)</title>
+      </info>
+<!-- para element(s) | content block 1 of 25 -->
+        <para role='body-first'>#c#513# is simply dummy text of the printing and typesetting industry.</para>
+<!-- para element(s) | content block 2 of 25 -->
+        <para>#c#514# All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</para>
+        <para>#c#515# has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </para>
+<!-- figure element(s) | content block 3 of 25 -->
+        <section role='figure'>
+          <figure>
+            <title>Fig#c#516# ToC Title also for table of figures</title>
+              <mediaobject>
+              <imageobject condition='print'>
+                <imagedata fileref='images/figure01.jpg'/>
+              </imageobject>
+              <textobject><phrase>Image ALT text using title</phrase></textobject>
+              <caption><para>If given, this text comes beneath the image / figure. Don't use for table of figures.</para></caption>
+            </mediaobject>
+          </figure>
+        </section>
+<!-- para element(s) | content block 4 of 25 -->
+        <para>#c#517# is not simply random text.</para>
+        <para>#c#518# All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</para>
+<!-- box element(s) | content block 5 of 25 -->
+        <section role='infobox'>
+          <title>Box#c#519# ToC Title also for table of boxes</title>
+          <para>#c#520# It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. </para>
+          <para>#c#521# has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </para>
+          <para>#c#522# has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </para>
+        </section>
+<!-- para element(s) | content block 6 of 25 -->
+        <para>#c#523# It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</para>
+        <para>#c#524# All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</para>
+<!-- figure element(s) | content block 7 of 25 -->
+        <section role='figure'>
+          <figure>
+            <title>Fig#c#525# ToC Title also for table of figures</title>
+              <mediaobject>
+              <imageobject condition='print'>
+                <imagedata fileref='images/figure02.jpg'/>
+              </imageobject>
+              <textobject><phrase>Image ALT text using title</phrase></textobject>
+              <caption><para>If given, this text comes beneath the image / figure. Don't use for table of figures.</para></caption>
+            </mediaobject>
+          </figure>
+        </section>
+<!-- para element(s) | content block 8 of 25 -->
+        <para>#c#526# It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, " dolor sit amet..", comes from a line in section 1.10.32.</para>
+        <para>#c#527# The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</para>
+<!-- figure element(s) | content block 9 of 25 -->
+        <section role='figure'>
+          <figure>
+            <title>Fig#c#528# ToC Title also for table of figures</title>
+              <mediaobject>
+              <imageobject condition='print'>
+                <imagedata fileref='images/figure03.jpg'/>
+              </imageobject>
+              <textobject><phrase>Image ALT text using title</phrase></textobject>
+              <caption><para>If given, this text comes beneath the image / figure. Don't use for table of figures.</para></caption>
+            </mediaobject>
+          </figure>
+        </section>
+<!-- para element(s) | content block 10 of 25 -->
+        <para>#c#529# If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. </para>
+        <para>#c#530# All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</para>
+<!-- box element(s) | content block 11 of 25 -->
+        <section role='infobox'>
+          <title>Box#c#531# ToC Title also for table of boxes</title>
+          <para>#c#532# has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </para>
+          <para>#c#533# has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </para>
+          <para>#c#534# If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. </para>
+        </section>
+<!-- para element(s) | content block 12 of 25 -->
+        <para>#c#535# It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</para>
+        <para>#c#536# It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, " dolor sit amet..", comes from a line in section 1.10.32.</para>
+<!-- figure element(s) | content block 13 of 25 -->
+        <section role='figure'>
+          <figure>
+            <title>Fig#c#537# ToC Title also for table of figures</title>
+              <mediaobject>
+              <imageobject condition='print'>
+                <imagedata fileref='images/figure04.jpg'/>
+              </imageobject>
+              <textobject><phrase>Image ALT text using title</phrase></textobject>
+              <caption><para>If given, this text comes beneath the image / figure. Don't use for table of figures.</para></caption>
+            </mediaobject>
+          </figure>
+        </section>
+<!-- para element(s) | content block 14 of 25 -->
+        <para>#c#538# is not simply random text.</para>
+        <para>#c#539# The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</para>
+<!-- figure element(s) | content block 15 of 25 -->
+        <section role='figure'>
+          <figure>
+            <title>Fig#c#540# ToC Title also for table of figures</title>
+              <mediaobject>
+              <imageobject condition='print'>
+                <imagedata fileref='images/figure01.jpg'/>
+              </imageobject>
+              <textobject><phrase>Image ALT text using title</phrase></textobject>
+              <caption><para>If given, this text comes beneath the image / figure. Don't use for table of figures.</para></caption>
+            </mediaobject>
+          </figure>
+        </section>
+<!-- para element(s) | content block 16 of 25 -->
+        <para>#c#541# is not simply random text.</para>
+        <para>#c#542# Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</para>
+<!-- box element(s) | content block 17 of 25 -->
+        <section role='infobox'>
+          <title>Box#c#543# ToC Title also for table of boxes</title>
+          <para>#c#544# is simply dummy text of the printing and typesetting industry.</para>
+          <para>#c#545# If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. </para>
+          <para>#c#546# is simply dummy text of the printing and typesetting industry.</para>
+        </section>
+<!-- para element(s) | content block 18 of 25 -->
+        <para>#c#547# is not simply random text.</para>
+        <para>#c#548# Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</para>
+<!-- figure element(s) | content block 19 of 25 -->
+        <section role='figure'>
+          <figure>
+            <title>Fig#c#549# ToC Title also for table of figures</title>
+              <mediaobject>
+              <imageobject condition='print'>
+                <imagedata fileref='images/figure02.jpg'/>
+              </imageobject>
+              <textobject><phrase>Image ALT text using title</phrase></textobject>
+              <caption><para>If given, this text comes beneath the image / figure. Don't use for table of figures.</para></caption>
+            </mediaobject>
+          </figure>
+        </section>
+<!-- para element(s) | content block 20 of 25 -->
+        <para>#c#550# The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</para>
+        <para>#c#551# The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</para>
+<!-- figure element(s) | content block 21 of 25 -->
+        <section role='figure'>
+          <figure>
+            <title>Fig#c#552# ToC Title also for table of figures</title>
+              <mediaobject>
+              <imageobject condition='print'>
+                <imagedata fileref='images/figure03.jpg'/>
+              </imageobject>
+              <textobject><phrase>Image ALT text using title</phrase></textobject>
+              <caption><para>If given, this text comes beneath the image / figure. Don't use for table of figures.</para></caption>
+            </mediaobject>
+          </figure>
+        </section>
+<!-- para element(s) | content block 22 of 25 -->
+        <para>#c#553# has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </para>
+        <para>#c#554# There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. </para>
+<!-- box element(s) | content block 23 of 25 -->
+        <section role='infobox'>
+          <title>Box#c#555# ToC Title also for table of boxes</title>
+          <para>#c#556# It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, " dolor sit amet..", comes from a line in section 1.10.32.</para>
+          <para>#c#557# It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. </para>
+          <para>#c#558# It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</para>
+        </section>
+<!-- para element(s) | content block 24 of 25 -->
+        <para>#c#559# is not simply random text.</para>
+        <para>#c#560# It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, " dolor sit amet..", comes from a line in section 1.10.32.</para>
+<!-- figure element(s) | content block 25 of 25 -->
+        <section role='figure'>
+          <figure>
+            <title>Fig#c#561# ToC Title also for table of figures</title>
+              <mediaobject>
+              <imageobject condition='print'>
+                <imagedata fileref='images/figure04.jpg'/>
+              </imageobject>
+              <textobject><phrase>Image ALT text using title</phrase></textobject>
+              <caption><para>If given, this text comes beneath the image / figure. Don't use for table of figures.</para></caption>
+            </mediaobject>
+          </figure>
+        </section>
+    </chapter>
+    <chapter label='Internal and external links (no.17)' xml:id='part3chapter17'>
+      <info>
+        <title>Internal and external links (no.17)</title>
+        <author><personname>Author of Links</personname></author>
+      </info>
+<!-- link element(s) | content block 1 of 1 -->
+        <para>
+          Booktype home page: <link xl:href='https://booktype.pro'>booktype.pro</link>
+          Try Booktype at Omnibook: <link xl:href='https://omnibook.pro'>omnibook.pro</link>
+        </para>
+        <para>
+          ToC title (from element 'label'): <link linkend='part1chapter1'>Foreword (no.1)</link>
+          Chapter title: <link linkend='part1chapter1'>Foreword (no.1)</link>
+        </para>
+        <para>
+          ToC title (from element 'label'): <link linkend='part1chapter2'>Preface (no.2)</link>
+          Chapter title: <link linkend='part1chapter2'>Preface (no.2)</link>
+        </para>
+        <para>
+          ToC title (from element 'label'): <link linkend='part1chapter3'>Acknowledgements (no.3)</link>
+          Chapter title: <link linkend='part1chapter3'>Acknowledgements (no.3)</link>
+        </para>
+        <para>
+          ToC title (from element 'label'): <link linkend='part1chapter4'>###ToC (no.4)</link>
+          Chapter title: <link linkend='part1chapter4'>###ToC (no.4)</link>
+        </para>
+        <para>
+          ToC title (from element 'label'): <link linkend='part1chapter5'>Abbreviations (no.5)</link>
+          Chapter title: <link linkend='part1chapter5'>Abbreviations (no.5)</link>
+        </para>
+        <para>
+          ToC title (from element 'label'): <link linkend='part1chapter6'>Introduction and Executive Summary (no.6)</link>
+          Chapter title: <link linkend='part1chapter6'>Introduction and Executive Summary (no.6)</link>
+        </para>
+        <para>
+          ToC title (from element 'label'): <link linkend='part1'>PART:##Mainmatter (Printed in ToC and content)</link>
+          Chapter title: <link linkend='part1'>PART:##Mainmatter (Printed in ToC and content)</link>
+        </para>
+        <para>
+          ToC title (from element 'label'): <link linkend='part1chapter7'>Chapter Header (no.7)</link>
+          Chapter title: <link linkend='part1chapter7'>Chapter Header (no.7)</link>
+        </para>
+        <para>
+          ToC title (from element 'label'): <link linkend='part2'>PART:##Backmatter (Printed in ToC and content)</link>
+          Chapter title: <link linkend='part2'>PART:##Backmatter (Printed in ToC and content)</link>
+        </para>
+        <para>
+          ToC title (from element 'label'): <link linkend='part2chapter8'>About the authors (no.8)</link>
+          Chapter title: <link linkend='part2chapter8'>About the authors (no.8)</link>
+        </para>
+        <para>
+          ToC title (from element 'label'): <link linkend='part2chapter9'>About us (no.9)</link>
+          Chapter title: <link linkend='part2chapter9'>About us (no.9)</link>
+        </para>
+        <para>
+          ToC title (from element 'label'): <link linkend='part2chapter10'>Recent publications (no.10)</link>
+          Chapter title: <link linkend='part2chapter10'>Recent publications (no.10)</link>
+        </para>
+        <para>
+          ToC title (from element 'label'): <link linkend='part3'>PART:This part contains all Booktype export formats for testing (Printed in ToC and content)</link>
+          Chapter title: <link linkend='part3'>PART:This part contains all Booktype export formats for testing (Printed in ToC and content)</link>
+        </para>
+        <para>
+          ToC title (from element 'label'): <link linkend='part3chapter11'>Aligning and indenting paragraphs (no.11)</link>
+          Chapter title: <link linkend='part3chapter11'>Aligning and indenting paragraphs (no.11)</link>
+        </para>
+        <para>
+          ToC title (from element 'label'): <link linkend='part3chapter12'>Headlines, subheadlines, subsubheadlines (no.12)</link>
+          Chapter title: <link linkend='part3chapter12'>Headlines, subheadlines, subsubheadlines (no.12)</link>
+        </para>
+        <para>
+          ToC title (from element 'label'): <link linkend='part3chapter13'>Lists (no.13)</link>
+          Chapter title: <link linkend='part3chapter13'>Lists (no.13)</link>
+        </para>
+        <para>
+          ToC title (from element 'label'): <link linkend='part3chapter14'>Tables (no.14)</link>
+          Chapter title: <link linkend='part3chapter14'>Tables (no.14)</link>
+        </para>
+        <para>
+          ToC title (from element 'label'): <link linkend='part3chapter15'>Font styles and Footnotes (no.15)</link>
+          Chapter title: <link linkend='part3chapter15'>Font styles and Footnotes (no.15)</link>
+        </para>
+        <para>
+          ToC title (from element 'label'): <link linkend='part3chapter16'>Figures and Info Boxes (no.16)</link>
+          Chapter title: <link linkend='part3chapter16'>Figures and Info Boxes (no.16)</link>
+        </para>
+        <para>
+          ToC title (from element 'label'): <link linkend='part3chapter17'>Internal and external links (no.17)</link>
+          Chapter title: <link linkend='part3chapter17'>Internal and external links (no.17)</link>
+        </para>
+    </chapter>
+  </part>
+</book>
